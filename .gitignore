@@ -1,0 +1,12 @@
+.DS_Store
+
+# Build
+/bin
+/lib
+
+# Node
+node_modules
+npm-debug.log
+
+# Coverage
+coverage
